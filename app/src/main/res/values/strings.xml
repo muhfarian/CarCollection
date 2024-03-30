@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Car Collections</string>
+    <string name="cars_name">Nama Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="nama">Muhammad Giffari Anugerah Perdana</string>
+    <string name="email">muhammadgiffari24@gmail.com</string>
+    <string name="descriptiontxt">Description</string>
+
+    <string-array name="data_name">
+        <item>Porsche 918 Spyder</item>
+        <item>Porsche 911</item>
+        <item>Dodge Super Bee</item>
+        <item>Chevrolet Camaro</item>
+        <item>Dodge Charger 1968</item>
+        <item>Koenigsegg Agera R</item>
+        <item>Dodge Challenger</item>
+        <item>Ford Mustang</item>
+        <item>Lamborghini Revuelto</item>
+        <item>Chevrolet Corvette</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Styling is always important at Porsche, but when it comes to the 918 Spyder, you really have to start with what’s under the bonnet – and what connects to both axles too. At launch, here was a true supercar that just happened to be a plug-in hybrid as well, combining a high-performance combustion engine with cutting-edge electric motors for extraordinary performance. The main power source is a 4.6-litre V8 that delivers around 578PS of power that was directly derived from the successful RS Spyder, which was good for engine speeds of up to 9,000rpm. Made almost exclusively of titanium and aluminium and weighing just 135kg, the engine in the 918 Spyder was described at the time by the man who led the project, Frank-Steffen Walliser, as "the best engine we have ever done".</item>
+        <item>The engine of the 911 models has a twin-turbo configuration. Its stand-out qualities: exceptional power across the speed range, extraordinarily direct responsiveness and a wide torque plateau, even at low speeds. The horizontally opposed construction, with its short length, low height and position in the vehicle rear allows for a low centre of gravity. The engine mounts near the centre of the car ensure greater stability and fewer vibrations.</item>
+        <item>The original Dodge Super Bee was based on the Dodge Coronet two-door coupe, and was produced from 1968 until 1970. It was Dodge low-priced muscle car and rebranded and mildly distinguished from the Plymouth Road Runner. The origin of the name, "Super Bee", has its basis in the "B" Body designation pertinent to Chrysler mid-sized cars, including the Road Runner and Charger.</item>
+        <item>From its instantly recognizable athletic appearance to its refined, driver-focused interior, the 2024 Camaro is a stylish and powerful extension of anyone who gets behind its wheel. 2024 marks the last model year for the sixth-gen Camaro. To commemorate this milestone, Chevrolet is proud to introduce the Camaro Collector Edition. This once-in-a-generation package provides stand-out looks while paying tribute to the storied history of a legendary nameplate.</item>
+        <item>The 1968 Dodge Charger started out with a base 318-cid V8, 230 hp (rated), 2-barrel carbureted engine. Later in the production year the venerable 225-cid "Slant" 6-cylinder with 1-barrel carburetor was also made available. The 383-cid big-blocks in both 2-barrel, 290 hp (rated) and 4-barrel, 330 hp (rated) were carried over from the 1967 first generation Dodge Chargers. A new R/T (Road/Track) version came standard with a 440-cid Magnum V8 and a 4-barrel carburetor pushing 375 under-rated hp. Of course, as if that wasn’t enough, you could still opt for the awesome 426-cid Hemi V8 with two-4 barrel carburetors producing in excess of 425 hp (again under rated and only a $605 option at the time).</item>
+        <item>Enhancements included: visible carbon on the front bonnet and bumper, new front side winglets, an all–new Aero exhaust, increased engine power with a raised RPM limit. The Agera R also saw the debut of Koenigsegg own ceramic piston brake system. In 2011, the Agera R set a new world record for driving 0–300–0 kph. The time of 21.19 seconds was only eclipsed in 2015 by the Koenigsegg One:1. The Agera R power delivery was boosted thanks to a redesigned turbocharger using a new configuration and new materials. This reduced intertia in the turbine wheel and axle, improving response and top-line performance.</item>
+        <item>Leading from the front of the pack, the Dodge Challenger SRT® Super Stock flaunt the highest horsepower of any production car, coming in at a whopping 807 ponies. With this much horsepower, everyone should come along for the ride. That’s why the Dodge Challenger offers Class-Exclusive five-passenger seating. </item>
+        <item>The Ford Mustang is a series of American automobiles manufactured by Ford. In continuous production since 1964, the Mustang is currently the longest-produced Ford car nameplate. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate. The namesake of the "pony car" automobile segment, the Mustang was developed as a highly styled line of sporty coupes and convertibles derived from existing model lines, initially distinguished by "long hood, short deck" proportions.</item>
+        <item>Just before the 60th anniversary of the marque, Lamborghini unveiled Revuelto, the first HPEV (High Performance Electrified Vehicle) hybrid super sports car. With the Revuelto, Lamborghini has established a new benchmark in performance, on-board technology, and driving pleasure. The ultimate thrill provided by the Revuelto is reached thanks to a powertrain that delivers 1015 CV total, combining the power of a brand-new 12-cylinder internal combustion engine with three high-density electric motors and a groundbreaking transversal dual clutch e-gearbox. The power of hybridization is harnessed to take performance and driving emotions to an unprecedented level.</item>
+        <item>Designed for year–round performance, E–Ray and its electrified AWD capability is always up for a challenge, whether it’s snow or rain. But this sophisticated supercar wasn’t created to take on Mother Nature alone. With technology inspired by the C8.R race car, F1 and Le Mans prototypes, it’s made to take on the greatest cars in the world. Corvette E–Ray is another step forward in the long history of Corvette firsts. See how it adds to the legacy of this legendary vehicle. Activate the E–Ray all–new, electric–only Stealth mode and make an entrance as quiet as you do like. Engaging Stealth mode allows you to drive using only electric power for 3–4 miles up to speeds of 45 mph.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/porsche_918</item>
+        <item>@drawable/porsche_911</item>
+        <item>@drawable/dodge_bee</item>
+        <item>@drawable/chevrolet_camaro</item>
+        <item>@drawable/dodge_charger</item>
+        <item>@drawable/koenigsegg_agera</item>
+        <item>@drawable/dodge_challenger</item>
+        <item>@drawable/ford_mustang</item>
+        <item>@drawable/lamborghini_revuelto</item>
+        <item>@drawable/chevrolet_corvette</item>
+    </integer-array>
+</resources>
